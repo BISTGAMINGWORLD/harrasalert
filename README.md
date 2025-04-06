@@ -1,61 +1,96 @@
-# Women Harassment Alert System (HarassAlert)
+![GitHub Repo Stars](https://img.shields.io/github/stars/BISTGAMINGWORLD/harrasalert?style=social)
+![GitHub Forks](https://img.shields.io/github/forks/BISTGAMINGWORLD/harrasalert?style=social)
+---
 
-## Overview
+## 🚀 **Overview**
 
-HarassAlert is a web-based emergency alert system designed to provide immediate support to women in distress. With no installation required, the platform offers one-click location sharing, real-time GPS tracking, and AI-powered emergency guidance to ensure rapid response in high-stress situations.
+**HarassAlert** is a web-based emergency alert system designed to provide immediate support to women in distress. With a focus on accessibility and ease of use, this platform enables one-click location sharing, real-time GPS tracking, and AI-powered guidance to ensure safety during emergencies.
 
 ---
 
-## Problem Statement
+## 📌 **Table of Contents**
+- [Problem Statement](#problem-statement)
+- [Features](#features)
+- [Technologies Used](#technologies-used)
+- [How It Works](#how-it-works)
+- [Snapshots](#snapshots)
+- [Competitive Analysis](#competitive-analysis)
+- [Future Development](#future-development)
+- [Team Details](#team-details)
+- [Links](#links)
 
-- **81%** of women in India experience public harassment.
-- Existing solutions often require installation and complex setup.
-- Average emergency response time exceeds **10 minutes**.
+---
 
-### Our Solution:
+## ❗ **Problem Statement**
+
+- **81% of women in India** face public harassment.
+- Existing solutions require installation and complex setup.
+- Emergency response times often exceed **10 minutes**.
+
+### **Our Solution**
 - **Web-based platform**: No installation required.
-- **One-click SOS alerts**: Instantly share location and alert contacts.
+- **One-click SOS alerts**: Instantly notify emergency contacts.
 - **Real-time tracking**: Continuous updates until marked safe.
 - **AI-powered assistant**: Emergency guidance using Gemini AI.
 
 ---
 
-## Features
+## ✨ **Features**
 
-1. **One-Click Emergency Alert**  
+1. **One-Click Emergency Alert**
    - Instantly shares the user's location with emergency contacts.
-   - Provides customizable alert messages for specific situations.
+   - Customizable alert messages for specific scenarios.
 
-2. **Live GPS Tracking**  
+2. **Live GPS Tracking**
    - Real-time updates to emergency contacts for enhanced safety.
 
-3. **AI-Powered Assistant**  
+3. **AI-Powered Assistant**
    - Gemini-based chatbot offering guidance and safety tips during emergencies.
 
-4. **Custom Alert Messages**  
+4. **Custom Alert Messages**
    - Predefined templates tailored to different harassment scenarios.
 
-5. **Future Enhancements** *(Planned)*  
+5. **Future Enhancements (Planned)**
    - Offline support for emergencies without internet access.
 
 ---
 
-## Technologies Used
+## 🛠️ **Technologies Used**
 
-### Current Stack:
-- **Frontend Layer**: Progressive Web App (PWA) with custom JavaScript.
-- **API Layer**: Browser APIs for location tracking and alert sharing.
-- **Infrastructure**: Firebase for web hosting and backend services.
-
-### Planned Enhancements:
-- **Project IDX**: Multiplatform cloud development environment.
-- **Gemini API**: AI chatbot integration for emergency guidance.
-- **Vertex AI in Firebase**: Secure API access with enterprise-grade security.
-- **Google Cloud Platform**: Scalable backend infrastructure.
+| Layer              | Current Stack                          | Planned Enhancements                     |
+|--------------------|----------------------------------------|------------------------------------------|
+| **Frontend**       | Progressive Web App (PWA), JavaScript | Project IDX for multiplatform testing    |
+| **API Layer**      | Browser APIs for location tracking    | Gemini API for AI-powered assistance     |
+| **Infrastructure** | Firebase hosting                      | Google Cloud for scalable infrastructure |
 
 ---
 
-## Competitive Advantage
+## 🌀 **How It Works**
+
+1. Users access the web app and tap the SOS button during emergencies.
+2. The system sends an alert with the user's live location to emergency contacts.
+3. Continuous GPS tracking ensures real-time updates until the user is marked safe.
+4. Gemini AI provides guidance and support throughout the process.
+
+---
+
+## 📸 **Snapshots**
+
+### 1. Emergency SOS Interface
+![Screenshot 2025-04-07 000306](https://github.com/user-attachments/assets/0201b9de-c7b2-40c4-a618-3a9729da4f31)
+
+
+### 2. Incident Reporting Form
+![Screenshot 2025-04-07 000202](https://github.com/user-attachments/assets/8ec204d4-44f7-4f6f-a0a2-21cc9c8b5ebf)
+
+
+### 3. Knowledge Center
+![Screenshot 2025-04-07 000224](https://github.com/user-attachments/assets/14da6084-f702-47ed-b6b6-2f27d3c56fdd)
+
+
+---
+
+## 🆚 **Competitive Analysis**
 
 | Feature                  | HarassAlert        | Typical Safety Apps |
 |--------------------------|--------------------|---------------------|
@@ -69,42 +104,7 @@ HarassAlert is a web-based emergency alert system designed to provide immediate 
 
 ---
 
-## How It Works
-
-1. Users access the web app and tap the SOS button during emergencies.
-2. The system sends an alert with the user's live location to emergency contacts.
-3. Continuous GPS tracking ensures real-time updates until the user is marked safe.
-4. Gemini AI provides guidance and support throughout the process.
-
----
-
-## Snapshots of MVP
-
-### Emergency SOS Interface
-- Simple, intuitive design for quick access during emergencies.
-
-### Incident Reporting Form
-- Easy-to-use form with progress tracking and location detection.
-
-### Knowledge Center
-- Comprehensive resources on harassment types, legal rights, and safety tips.
-
----
-
-## Link
-
-- **Live MVP Link**: [HarassAlert Web App](https://harass-alert.web.app/)
-
----
-
-## Team Details
-
-### Team Name: BitDecoders
-- **Hackathon Challenge**: Google Solution Challenge 2025
-
----
-
-## Future Development
+## 🔮 **Future Development**
 
 1. Integration of offline support for areas with limited connectivity.
 2. Advanced AI features for predictive safety alerts.
@@ -113,10 +113,17 @@ HarassAlert is a web-based emergency alert system designed to provide immediate 
 
 ---
 
-## About Us
+## 👥 **Team Details**
 
-The HarassAlert platform is dedicated to empowering women by providing immediate support and resources during harassment situations. With a focus on accessibility, speed, and innovation, we aim to create a safer environment for everyone.
+### Team Name: BitDecoders
+- Participating in: *Google Solution Challenge 2025*
 
 ---
 
-© 2025 Women Harassment Alert System | All Rights Reserved
+## 🔗 **Links**
+
+- 🌐 [Live Web App (MVP)](https://harass-alert.web.app/)
+
+---
+
+© 2025 HarassAlert by BitDecoders. All Rights Reserved.
