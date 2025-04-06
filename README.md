@@ -122,7 +122,7 @@
 
 ## 🔗 **Links**
 
-- 🌐 [Live Web App (MVP)](https://harass-alert.web.app/)
+🌐 [Live Web App (MVP)](https://harass-alert.web.app/)
 
 ---
 
