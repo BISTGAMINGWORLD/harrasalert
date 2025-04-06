@@ -91,10 +91,8 @@ HarassAlert is a web-based emergency alert system designed to provide immediate 
 
 ---
 
-## Links
+## Link
 
-- **GitHub Repository**: [HarassAlert GitHub](https://github.com/BISTGAMINGWORLD/harrasalert)
-- **Demo Video**: [Watch Demo](#)
 - **Live MVP Link**: [HarassAlert Web App](https://harass-alert.web.app/)
 
 ---
