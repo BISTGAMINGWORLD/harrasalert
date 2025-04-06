@@ -100,7 +100,6 @@ HarassAlert is a web-based emergency alert system designed to provide immediate 
 ## Team Details
 
 ### Team Name: BitDecoders
-- **Team Leader**: Ashish Saha
 - **Hackathon Challenge**: Google Solution Challenge 2025
 
 ---
